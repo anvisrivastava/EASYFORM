@@ -1,0 +1,39 @@
+.section ul li {
+    list-style: none;
+     display:inline-block;
+     margin:15px;
+     margin-top:60px;
+ }
+  ul li a{
+     text-decoration: none;
+     color: black;
+ }
+.easylogo{
+    margin-right:20px;
+}
+.navclass{
+    margin-top:33px;
+}
+.login{
+    border:none;
+    margin-right:40px;
+    padding:6px;
+    background-color: white;
+}
+.Signup{
+    border:none;
+    margin-right:20px;
+    padding:10px;
+    background-color: #00cf86;
+    border-radius: 6px;
+}
+.Signup:hover{
+    background-color: aqua;
+    color: yellow;
+    font-weight: 400;
+}
+.my-nav{
+    display:flex;
+    gap:25px;
+    margin: 0 auto;
+}

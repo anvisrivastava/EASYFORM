@@ -1,0 +1,105 @@
+.easylogo{
+    padding:6px;
+    margin-bottom:15px;
+}
+.user{
+    font-size:medium;
+    font-weight: bold;
+    margin-top:30px;
+ }
+ .label {
+    display: block;
+    font-size: larger;
+    color: black;
+    padding: 2px;
+    margin-right:500px;
+}
+.label1 {
+    display: block;
+    font-size: larger;
+    color: black;
+    padding: 3px;
+    margin-right:470px;
+}
+.email{
+    width:580px;
+    border:1px solid green;
+    border-radius: 5px;
+    outline: #00cf86;
+    box-shadow:inset 1px -1px 4px 0px lightgreen;
+    font-size:larger;
+    padding: 4px;
+    margin:0px -5px 10px 20px;
+}
+.button {
+    width:580px;
+    height:40px;
+    margin:20px 140px 0px 38px;
+    color: white;
+    border:none;
+    background-color: #00cf86;
+    border-radius: 5px;
+}
+.messages {
+    display: flex;
+    justify-content: center;
+}
+.error {
+    display: block;
+    color: black;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+}
+.success {
+    display: block;
+    color: black;
+    height: 50px;
+    margin-bottom:40px;
+}
+.form{
+    text-align: center;
+}
+.frame{
+    margin:135px 15px 25px 45px;
+    width:310px;
+}
+.whitebox{
+    background-color: white;
+    height:550px;
+    width:400px;
+    margin: 42px 55px 30px;
+    border-radius: 195px;
+}
+.box{
+    margin-right:36px;
+    margin-top: 15px;
+}
+.Girl{
+    margin:111px 15px 25px 50px;
+    width:300px;
+}
+.label4 {
+    display: block;
+    font-size: larger;
+    color: black;
+    padding: 2px;
+    margin-right:420px;
+}
+.label5 {
+    display: block;
+    font-size: larger;
+    color: black;
+    padding: 2px;
+    margin-right:360px;
+}
+.forgotpassword{
+         margin-top:20px;
+        margin-left:371px;
+       color: black;
+    }
+ /* @media (min-width:374px){
+    .container{
+        width:200px;
+    }
+    } */
